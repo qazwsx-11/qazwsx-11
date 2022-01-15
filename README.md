@@ -1,7 +1,9 @@
+# readme.md
+
 - 👋 hello
 - 👀 I’m interested in nothing
 - 🌱 I’m currently learning python, java, and c#
-- 💞️ I’m looking to collaborate on making cheats in a block game.
+- 💞️ I’m looking to collaborate on making mods on a block game.
 - 📫 How to reach me idk dm my alt discord throw#8363
 
 <!---
