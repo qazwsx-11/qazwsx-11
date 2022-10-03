@@ -1,10 +1,7 @@
 # readme.md
 
-- 👋 hello
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning python, java, and c#
-- 💞️ I’m looking to collaborate on making mods on a block game.
-- 📫 dm me on discord: .qazwsxㅡ#9871
+Hi, I'm barely active on github because I'm too lazy to update my repos or contribute, but you can dm me on discord (.qazwsx#9871) where I'm online practically all day.
+I know HTML, CSS, Javascript, Python, Java, Kotlin, and C#. Although I am not very competent in any of these, you can request me to make a simple program and I'll do it for free if I happen to have enough time.
 
 <!---
 qazwsx-11/qazwsx-11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
