@@ -6,9 +6,15 @@ I know HTML, CSS, Javascript, Python, Java, Kotlin, and C#. Although I am not ve
 Contribution Stats:
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=qazwsx-11)](https://github.com/qazwsx-11/github-contribution-stats/)
 
-Github Badges
+
+
+**Github Badges**
+
+
 Quickdraw | ![Quickdraw Badge]([/images/quickdraw-default.png](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default--light-medium.png)) | ✔️ | Closed an issue or a pull request within 5 min of opening
+
 Pull Shark | ![Pull Shark Badge]([/images/pull-shark-default.png](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)) | ✔️ | Pull requests merged
+
 Starstruck | ![Starstruck Badge](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default--light-medium.png) | ✔️ | Created a repository that has 16 stars
 
 
