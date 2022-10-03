@@ -5,7 +5,7 @@ I know HTML, CSS, Javascript, Python, Java, Kotlin, and C#. Although I am not ve
 
 Github Stats:
 
- ![](https://github-readme-stats.vercel.app/api?username=dinofengz&show_icons=true&theme=tokyonight)
+ ![](https://github-readme-stats.vercel.app/api?username=qazwsx-11&show_icons=true&theme=tokyonight)
  
  
 Contribution Stats:
